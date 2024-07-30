@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Nieves Bermejo and I am an aerospace engineer student. 
 <!--
 **nievesbermejogarcia/nievesbermejogarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
